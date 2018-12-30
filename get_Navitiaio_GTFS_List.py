@@ -17,7 +17,7 @@ for source in navitiaio_sources:
         if dataset['fields']['format'] != "GTFS" : continue
         gtfs = {}
         gtfs["ID"] = dataset['fields']["id"]
-        gtfs["Licence"] = dataset['fields']["licence"]
+        gtfs["Licence"] = dataset['fields'].get("licence", None)
         gtfs["Source link"] = dataset['fields']["source_link"]
         gtfs["Description"] = dataset['fields']["description"]
         gtfs["Download"] = "https://navitia.opendatasoft.com/api/datasets/1.0/{}/images/{}".format(

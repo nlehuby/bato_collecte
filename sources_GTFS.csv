@@ -4,74 +4,104 @@ fr-se-OAC,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopend
 fr-se-SIN,SNCF,https://ressources.data.sncf.com/explore/,National Train (SNCF),https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/78e770996a411e1262d855b6d66609e9
 fr-se-OVO,ODbL,https://www.itinisere.fr/fr/donnees-open-data/169/OpenData/Index,Transports of Voironnais contry,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/b2095dc978e89a6da4f7d80631f43b13
 fr-se-OOC,NC,NC,NC,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/a355b02c75766b386e01b1fe4b0fc5c8
+fr-se-OAZ,,http://transport.data.gouv.fr,Transport of Annecy,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/700bb6810017931f9b69400607f6ec67
+fr-se-O13,ETALAB,https://www.lepilote.com/fr/open-data/83,Transport network of the department 13,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/cf5cd4d94f25cf6ca234c12a13a10973
+fr-se-DGL,Licence engagée,https://data.grandlyon.com/,Transport of Lyon,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/ec88e19864eb78cf79f7808ab9bcb50b
 fr-se-OM4,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf,"Marseille suburbs : Carry-le-Rouet, Chateauneuf-les-Martigues, Sausset-les-Pins, Ensues-la-Redonne, Le Rove",https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/39bebcbe91889405b90af6be95bd3e6e
 fr-se-OAE,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf,"Pays d’Aubagne et de l’Étoile, bus de l'agglo",https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/c03c73c61b8acd6110df178f822c1148
 fr-se-OIA,ODbL,https://www.itinisere.fr/fr/donnees-open-data/169/OpenData/Index,Transport of Bourgoin Jallieu,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/a768f19c4e8fa1380236edfa840a1fc5
-fr-se-DGL,Licence engagée,https://data.grandlyon.com/,Transport of Lyon,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/ec88e19864eb78cf79f7808ab9bcb50b
+fr-se-OPD,ODbL,http://transport.data.gouv.fr,Transport of Pays de Grasse,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/40a0a67ba5456e102baa6162a3cc46ad
 fr-se-ORX,Licence engagée,https://data.grandlyon.com,Service Rhônexpress,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/e82608a804753633d8314ac390469611
+fr-se-OCZ,ODbL,https://donnees.grandchambery.fr/,Transport of Chambery,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/7bb3a7e0531c651645a0d1a658065529
 fr-se-O38,ODbL,https://www.itinisere.fr/fr/donnees-open-data/169/OpenData/Index,Departement Transport in Isère,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/ce870e9252b3783f2e5733228314fe07
 fr-se-OET,LO/OL,https://www.lepilote.com/fr/open-data/83,Local transports of the Etang de Berre,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/dc123c06552c7100aba352f668d49d89
-fr-se-OLE,LO/OL,http://opendata.regionpaca.fr/donnees/detail/lignes-expresses-regionales-et-chemins-de-fer-de-provence-horaires-points-darret-et-lignes.html,Regional Coaches Transport of Provence-Alpes-Côte d'Azur,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/3b9aab1da4a9af55e5108f37bc27c5f2
 fr-se-OM5,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf,"Marseille suburbs : Cassis, Carnoux-en-Provence, Roquefort-la-Bédoule",https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/73537ba001f006de298582a58efedb5b
 fr-se-OM7,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf,"Marseille suburbs : Allauch, Plan-de-Cuques",https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/8abea48776510e1785cccbe5e5b3b26e
 fr-se-OM3,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf,Boat between Marseille and if island,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/ec62780b34157c070a9abc253e29bc97
 fr-se-OZU,LO,http://opendata.nicecotedazur.org/data/dataset/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur#,Transport of Nice City,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/6c3ac24a9ea1d73a6d47f0fd86902553
 fr-se-OM6,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf,transport in Gémenos,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/8615a41d47e710129f0a0f8e0a8a4dde
+fr-se-OLE,LO/OL,https://trouver.datasud.fr/dataset?groups=mobilite-et-transports,Regional Coaches Transport of Provence-Alpes-Côte d'Azur,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/3b9aab1da4a9af55e5108f37bc27c5f2
 fr-se-OGE,ODbL,https://www.itinisere.fr/fr/donnees-open-data/169/OpenData/Index,Crolles - Grésivaudan Transports,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/91ef0b277bdf11a85f13a75820dad0a2
+fr-se-OMT,Etalab,https://www.reseaumistral.com/fr/open-data/80,Mistral transport network in Toulon,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/be0f3cca1dffc99bce8733e596174393
+fr-se-OZB,ODbL,http://transport.data.gouv.fr/,Local transport of Béziers,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/f9f63d02b9f84cf5c9e63170c9bcb3d8
 fr-se-OSX,NC,NC,NC,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/2699fab4e114491efbf427d521c1ea82
 fr-se-OMA,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf,Local transports of West Provence and Etang de Berre,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/49befeda8101414b6b1b8906b84a28fb
-fr-se-OGR,ODbL,https://www.itinisere.fr/fr/donnees-open-data/169/OpenData/Index,Transport of Grenoble city,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/76e522daa1a4b99ca9f9d87f5ddc2253
 fr-se-OAB,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf,Transport of Aix en Provence,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/5d209569bf8c567ff9fc53d3de6c1cbe
 fr-se-STE,SNCF,https://ressources.data.sncf.com/,Regional transport (SNCF),https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/1be0d921cee49ce8f73d9baadb2d1bb0
+fr-se-OGR,ODbL,http://transport.data.gouv.fr,Transport of Grenoble city,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/76e522daa1a4b99ca9f9d87f5ddc2253
 fr-se-OMP,ODbL,http://data.montpellier3m.fr/dataset/offre-de-transport-tam-en-gtfs,Local transports of Montpellier,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/a23074d293f5eaa19b3c641d08650fcf
+fr-se-OGU,ODbL,https://transport.data.gouv.fr/,Transport of Le Lac du Bourget Agglomeration,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/414b84f18c13ba4f5027bd36c69c9a94
+fr-se-OHL,ODbL,https://static.data.gouv.fr,Transport network Cap'Bus,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/55a8a1ca3a48563bf66fd0b751b84a11
 fr-se-ONL,NC,NC,NC,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/5bc3a6274bd5a18a4b420ca4e831c8e9
 fr-se-OM1,LO/OL,http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf,Transport of Marseille (RTM),https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/b4f882eb4d9d3e31a0ed187bdf5ab859
 fr-se-OIV,ODbL,https://www.itinisere.fr/fr/donnees-open-data/169/OpenData/Index,Transport in Vienne Country,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/8da5470453fe4f4c520f7a4f417e1358
 fr-se-OM9,LO/OL,https://www.lepilote.com/fr/open-data/83,Local transports of Aix-Marseille,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/bd76a19cbc02b873255ddeb9f4d2c813
 fr-se-OM8,LO/OL,https://www.lepilote.com/fr/open-data/83,Arles et ses environs,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/88ca677ffa111ec9d5c67c542d86fc1d
+fr-se-OIG,ODbL,https://www.data.gouv.fr/,Local transport of Avignon,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/15ab2124d2f1e6e1aa051865d486cbff
+fr-se-OZT,ODbL,https://www.data.gouv.fr/,Transport network Zest,https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/ebcdf35dc33242f3cade4eb4d7652b72
+fr-sw-ODX,ODbL,http://transport.data.gouv.fr/,Transport of Dax,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/0177e6149ec1897cb5ff190ea27f7aca
+fr-sw-OOI,ODbL,https://transport.data.gouv.fr,Transport of Arcachon,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/d04d35388643c1773ed880ab91e3036c
+fr-sw-OR1,ODbL,https://www.data.gouv.fr/,Transport of La Rochelle (RTCR),https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/6fd718d295f9bd14d624f47d1db4793e
 fr-sw-OGP,ODbL,https://data.grandpoitiers.fr/explore/dataset/mobilite-arret-services-theoriques-bus-hiver/,Transport of Grand Poitiers,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/24012e669caedf279371a250b284bf9b
+fr-sw-OII,NC,NC,NC,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/ead8f7dd0b7a84f00a30e60c31e8c7f1
 fr-sw-AEC,ODbL,https://data.haute-garonne.fr/explore/?sort=modified,Regional Transport of Haute-Garonne,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/c37bd8577713b1080f6d5c7bb1eb6e43
 fr-sw-OTL,ODbL,http://data.toulouse-metropole.fr,Transport of Toulouse,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/748662cdf75e8d63a61cd268e5dc484c
-fr-sw-OYN,LO-OL,https://data.agglo-royan.fr,Transport of Royan,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/abb6edb6b32223b7c5c1e55b37563d6f
+fr-sw-OEG,ODbL,http://transport.data.gouv.fr/,Tempo network,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/f955b749553edbf890b37fd6956b930b
 fr-sw-OBX,ODbL,http://data.lacub.fr,Tram transport of Bordeaux,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/2ce2d664e00af3011ed7982c9239e9bb
+fr-sw-OGL,ODbL,http://transport.data.gouv.fr,Transport of Grand Albigeois,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/a98ce0a8facb23e17181fd3e4b4ae586
+fr-sw-OFV,ODbL,http://transport.data.gouv.fr/,Transport of Foix-Varilhes,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/5f6f32276780cbe134a6ebe4b8161452
+fr-sw-OYN,LO-OL,https://data.agglo-royan.fr,Transport of Royan,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/abb6edb6b32223b7c5c1e55b37563d6f
+fr-sw-OXL,ODbL,https://transport.data.gouv.fr,Transport of XLR7,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/31f4aed50661486a4d2a1f26bd1dc57b
 fr-sw-SIN,SNCF,https://ressources.data.sncf.com/explore/,National Train (SNCF),https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/cc93e52d1a03447876388fbc7922475e
 fr-sw-STE,SNCF,https://ressources.data.sncf.com/,Regional transport (SNCF),https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/c6c44f35e9edcf05eca7f1d440c628ee
+fr-sw-OR2,ODbL,https://www.data.gouv.fr/,Transport of La Rochelle (Transdev),https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/90a7dff47167a622e753353fa69ff154
+fr-sw-OMX,ODbL,https://www.montm.com/le-bus-tm/,Transport de Montauban,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/3f1d99455e6a7d33360f38971a321599
+fr-sw-OGC,ODbL,https://transport.data.gouv.fr,Transport of Cahors,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/3d3528c7e4f9b2fc9a70c29389d5d367
 fr-sw-OBO,ODbL,http://data.lacub.fr,Bus transport of Bordeaux,https://navitia.opendatasoft.com/api/datasets/1.0/fr-sw/images/c45ff3caa887ce4f3296299b76dcdadc
-fr-ne-OTC,Etalab,https://www.oise-mobilite.fr/fr/part17/a-propos-de-nous/154,Transport of Oise Mobilité (Le Bus SITCAC),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/d3de8ce131971f9fb1c81f8553a103ce
-fr-ne-OMZ,LO/OL,https://www.data.gouv.fr/fr/datasets/transport-donnees-gtfs/,Transport of Metz city,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/e540fbdd1701ca1c8ca133972af37fdf
-fr-ne-BSO,Etalab,www.marineo.fr,Transports of Boulogne-sur-Mer,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/c26e25bef52daa015f55bbe152315e83
 fr-ne-TRN,SNCF,https://ressources.data.sncf.com/explore/,Rapid Transit from Paris Region,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/ffae8d3685ccada568ffc7e017fa5f47
+fr-ne-OTC,Etalab,https://www.oise-mobilite.fr/fr/part17/a-propos-de-nous/154,Transport of Oise Mobilité (Le Bus SITCAC),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/d3de8ce131971f9fb1c81f8553a103ce
 fr-ne-OUS,Etalab,https://www.oise-mobilite.fr/fr/part4/a-propos-de-nous/154,Transport of Oise Mobilité (LibBus Noyon),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/f119ead2ac73ae3c315a9b164f567490
+fr-ne-OMZ,LO/OL,https://www.data.gouv.fr/fr/datasets/transport-donnees-gtfs/,Transport of Metz city,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/e540fbdd1701ca1c8ca133972af37fdf
+fr-ne-OII,ODbL,http://transport.data.gouv.fr,Tallis network data in Lons-le-Saunier,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/4dbb80bf7f91aeac4ef3c8bb062a9219
+fr-ne-OBL,ODbL,http://transport.data.gouv.fr/,Local transport of Belfort,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/c9f2044f786b672a81dab4d22704aa6a
+fr-ne-BSO,OL,www.marineo.fr,Transports of Boulogne-sur-Mer,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/c26e25bef52daa015f55bbe152315e83
+fr-ne-OST,LO/OL,http://www.strasbourg.eu/fr/ma-situation/professionnel/open-data/donnees/mobilite-transport-open-data/liste-donnees-open-data-cts,Transport of Strasbourg (CTS),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/bd5438997b05701aa62ca06d469f4cd5
 fr-ne-ORM,Etalab,https://www.oise-mobilite.fr/fr/part6/a-propos-de-nous/154,Transport of Oise Mobilité (Réseau Régional de Transport lignes routières 2),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/9d3d692cb7ca479e79d27e13c9ac4750
+fr-ne-OUM,Etalab,https://www.oise-mobilite.fr/fr/part5/a-propos-de-nous/154,Transport of Oise Mobilité (TUM Transports Urbains Maxipontains),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/08e350cd4b9a9df93bdd0a547bcda6aa
 fr-ne-OLI,etalab,https://metropole-europeenne-de-lille.opendatasoft.com/explore/dataset/transport_arret_transpole-point/export/,Lille Transport,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/d05a3007261d30e556a28fc2be7b4113
 fr-ne-OCV,Etalab,https://www.oise-mobilite.fr/fr/part10/a-propos-de-nous/154,Transport of Oise Mobilité (CYPRE - Crépy-en-Valois),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/d70bc494cb6089263461728efb84ecc2
 fr-ne-OIS,Etalab,https://www.oise-mobilite.fr/fr/part9/a-propos-de-nous/154,Transport of Oise Mobilité (Corolis TUB),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/71c95f62bc38bdc46557eff3fbabf4d8
-fr-ne-OST,LO/OL,http://www.strasbourg.eu/fr/ma-situation/professionnel/open-data/donnees/mobilite-transport-open-data/liste-donnees-open-data-cts,Transport of Strasbourg (CTS),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/bd5438997b05701aa62ca06d469f4cd5
-fr-ne-OUM,Etalab,https://www.oise-mobilite.fr/fr/part5/a-propos-de-nous/154,Transport of Oise Mobilité (TUM Transports Urbains Maxipontains),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/08e350cd4b9a9df93bdd0a547bcda6aa
 fr-ne-ODS,Etalab,https://www.oise-mobilite.fr/fr/part14/a-propos-de-nous/154,Transport of Oise Mobilité (Atriom du Beauvaisis),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/d826937dfa479dbe7bcdb532c78e8379
 fr-ne-OYY,Etalab,https://www.oise-mobilite.fr/fr/part3/a-propos-de-nous/154,Transport of Oise Mobilité (DUC Chantilly),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/a675378250ac1507020f28188e0e2eb9
 fr-ne-OLO,Etalab,https://www.oise-mobilite.fr/fr/part7/a-propos-de-nous/154,Transport of Oise Mobilité (Allo TUC),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/7d33c0989c802a38a2b833ee7d84a483
+fr-ne-OEI,ODbL,http://transport.data.gouv.fr,Transport of Grand Reims,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/7fbd30e66099bf5012f1294ad38ad140
 fr-ne-OID,NC,NC,NC,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/17f570895d1d672af3e6ca50c896df6c
+fr-ne-ODV,Etalab,https://www.oise-mobilite.fr/fr/part14/a-propos-de-nous/154,Transport of Oise Mobilité (Atriom du Compiégnois),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/58aa0feb76c2de20a143bd59e35e231c
+fr-ne-OGN,Etalab,https://www.oise-mobilite.fr/fr/part8/a-propos-de-nous/154,Transport of Oise Mobilité (STAC),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/d2d075b4fe7961b4b474988b0e98ca07
+fr-ne-OAX,ODbL,http://transport.data.gouv.fr/,Transport of Auxerrois Agglomeration,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/c92304ffe521fde2f6c88cf0f5fb6e91
+fr-ne-OLG,ODbL,https://transport.data.gouv.fr/,transport of Grand Calais,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/a0f93dcf193947bfe429afe8d15e7f2e
 fr-ne-ONY,OBdL,http://opendata.grand-nancy.org/jeux-de-donnees/detail-dune-fiche-de-donnees/?tx_icsoddatastore_pi1%5bkeywords%5d=&tx_icsoddatastore_pi1%5bcategories%5d%5b0%5d=44&tx_icsoddatastore_pi1%5buid%5d=108&tx_icsoddatastore_pi1%5breturnID%5d=447,Transport of Nancy city,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/5c480bf61cfec571b83a7af4c0e1da1e
 fr-ne-ORQ,Etalab,https://www.oise-mobilite.fr/fr/part6/a-propos-de-nous/154,Transport of Oise Mobilité (Réseau Régional de Transport lignes routières 3),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/977ec235e91bec76324a46593fc856ef
 fr-ne-ORL,Etalab,https://www.oise-mobilite.fr/fr/part6/a-propos-de-nous/154,Transport of Oise Mobilité (Réseau Régional de Transport lignes routières 1),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/70200af81d12baca3592ae4fbf27151e
-fr-ne-ODV,Etalab,https://www.oise-mobilite.fr/fr/part14/a-propos-de-nous/154,Transport of Oise Mobilité (Atriom du Compiégnois),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/58aa0feb76c2de20a143bd59e35e231c
-fr-ne-OSP,Etalab,https://www.oise-mobilite.fr/fr/part13/a-propos-de-nous/154,Transport of Oise Mobilité (Pierre Sud Oise),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/8911cfcc739418d0a8e805d2a816fce0
-fr-ne-OGN,Etalab,https://www.oise-mobilite.fr/fr/part8/a-propos-de-nous/154,Transport of Oise Mobilité (STAC),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/d2d075b4fe7961b4b474988b0e98ca07
 fr-ne-STE,SNCF,https://ressources.data.sncf.com/,Regional transport (SNCF),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/54411eb610b544be61d85397f3dafbbf
+fr-ne-OSP,Etalab,https://www.oise-mobilite.fr/fr/part13/a-propos-de-nous/154,Transport of Oise Mobilité (Pierre Sud Oise),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/8911cfcc739418d0a8e805d2a816fce0
 fr-ne-ODT,Etalab,https://www.oise-mobilite.fr/fr/part14/a-propos-de-nous/154,Transport of Oise Mobilité (Kéolis Réseau Départemental Sud Oise),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/8fd060ecf64491ce3d28d950b490270b
 fr-ne-SIN,SNCF,https://ressources.data.sncf.com/explore/,National Train (SNCF),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/e166ca79a1b3fe1bbf486ec6c78059b9
 fr-ne-OLB,Etalab,https://www.oise-mobilite.fr/fr/part11/a-propos-de-nous/154,Transport of Oise Mobilité (Sablons Bus),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/3431d18f1a18da61755dbbe0cfb4f415
 fr-ne-OEL,Etalab,https://www.oise-mobilite.fr/fr/part2/a-propos-de-nous/154,Transport of Oise Mobilité (TUS Senlis),https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/e05f80e7708bd11190261e6d9d9f29aa
-fr-ne-OGB,LO/OL,https://www.ginkoopenapi.fr/#prez,Transport of Grand Besançon,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/42077b6ed68ccebb791bb77afad93b2a
-fr-nw-OBI,LO-OL,https://geo.pays-de-brest.fr/actualites/Pages/public/Offre_Theorique_Bibus.aspx,Transport of Brest City (BIBUS),https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/3cc6a347d09a93273f31e919e9cf8c41
-fr-nw-ONA,ODbL,http://data.nantes.fr,Transport of Nantes city (TAN),https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/32f80004f223ce61f75185dff184578d
-fr-nw-OPL,ODbL,http://data.loire-atlantique.fr/,Regional transport of Pays de la loire (Nantes) -LILA network,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/6e1a1c867690c7b748555fd90a046ae2
-fr-nw-OOY,ODbL,http://data.loire-atlantique.fr/,transport of La Roche sur Yon city - Impulsyon network,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/9f6835449d8be6a857544ebf51298828
+fr-ne-ORU,ODbL,http://transport.data.gouv.fr,Transport network Isibus of Sarrebourg,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/1c2c97488451766c6c210509750df2fc
+fr-ne-OGB,LO/OL,https://api.ginko.voyage/#prez,Transport of Grand Besançon,https://navitia.opendatasoft.com/api/datasets/1.0/fr-ne/images/42077b6ed68ccebb791bb77afad93b2a
+fr-nw-ONA,ODbL,http://data.nantesmetropole.fr,Transport of Nantes city (TAN),https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/32f80004f223ce61f75185dff184578d
+fr-nw-ODZ,ODbL,https://transport.data.gouv.fr/,Regional transport of Pays de la Loire region,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/c917a41bce8e36bec9087d921d5dca5e
+fr-nw-OLM,ODbL,https://transport.data.gouv.fr/,SETRAM transport network in Le Mans,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/6f60ff4b239350df68b54a2e30f5ae87
+fr-nw-OVD,ODbL,http://transport.data.gouv.fr,Move network data in Vendôme,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/291d04e9202d75ea7369dcaad1a21bca
 fr-nw-OAN,ODbL,http://data.angers.fr,Transport of Angers City (IRIGO),https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/7879082e0e39e661af554274af050e7f
-fr-nw-ORE,ODbL,https://data.explore.star.fr,Transport of Rennes,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/fa896fbb84a745479fcfa6ce83a46a6a
+fr-nw-OOY,ODbL,http://data.loire-atlantique.fr/,transport of La Roche sur Yon city - Impulsyon network,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/9f6835449d8be6a857544ebf51298828
+fr-nw-OPL,NC,NC,NC,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/6e1a1c867690c7b748555fd90a046ae2
 fr-nw-STE,SNCF,https://ressources.data.sncf.com/,Regional transport (SNCF),https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/9feb3565173c81e4302d258deb4340d8
 fr-nw-TRN,SNCF,https://ressources.data.sncf.com/explore/,Rapid Transit from Paris Region,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/ffde2073aad9c68a5a9dc6a77953b07e
+fr-nw-OBZ,ODbL,https://www.data.gouv.fr/fr/datasets/lignes-routieres-departementales-gerees-par-la-region-bretagne/,Transport of Brittany,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/9333a79d6de04b9e01a2574be5a7889e
 fr-nw-SIN,SNCF,https://ressources.data.sncf.com/explore/,National Train (SNCF),https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/c0bcf6522ea66fa22fde0c7aaa41a433
 fr-nw-STT,SNCF,https://ressources.data.sncf.com/,Tram-Train in Pays de la Loire (SNCF),https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/c70794c113ec9fe37a00f0df03792441
+fr-nw-OVZ,ODbL,https://transport.data.gouv.fr/,Local transport of Vierzon,https://navitia.opendatasoft.com/api/datasets/1.0/fr-nw/images/74855ca9af31a005f78760942ff16c1b
 fr-idf-OIF,ODbL,http://opendata.stif.info/explore,Transport in Paris and Suburb,https://navitia.opendatasoft.com/api/datasets/1.0/fr-idf/images/14bd1111dd3d3e845924bb0876e175b1
