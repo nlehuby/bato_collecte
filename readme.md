@@ -11,7 +11,7 @@ Pour manipuler les fichiers csv, l'applicatif [xsv](https://github.com/BurntSush
 
 ## Processus d'extraction
 Si besoin, mettre à jour la liste des sources GTFS en utilisant la commande :
-`python3 get_Navitiaio_GTFS_List.py`
+`python3 get_GTFS_List.py`
 
 Ensuite, lancer la commande `factotum run bato_update.factfile`
 ![processus d'extraction des données](doc/factotum.png)
