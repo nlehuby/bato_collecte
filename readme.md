@@ -5,7 +5,7 @@ Les scripts d'extraction sont en python et en bash, orchestrés par [factotum](h
 
 Pour les extractions d'OpenStreetMap, les applicatifs suivants sont nécessaires :
 * osmosis
-* osmconvert
+* pyosmium
 
 ## Processus d'extraction
 Si besoin, mettre à jour la liste des sources GTFS en utilisant la commande :
@@ -13,4 +13,4 @@ Si besoin, mettre à jour la liste des sources GTFS en utilisant la commande :
 
 Ensuite, lancer la commande `factotum run bato_update.factfile`
 ![processus d'extraction des données](doc/factotum.png)
-(généré avec `factotum dot bato_update.factfile --output factotum.dot && dot -Tpng factotum.dot -o ./factorum/factotum.png`)
+(généré avec `factotum dot bato_update.factfile --output factotum.dot && dot -Tpng factotum.dot -o ./doc/factotum.png`)

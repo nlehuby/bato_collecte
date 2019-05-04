@@ -13,6 +13,13 @@ name = "pypi"
 
 requests = "*"
 pandas = "*"
+jupyter = "*"
+geopandas = "*"
+rtree = "*"
+matplotlib = "*"
+descartes = "*"
+osm-conflate = "*"
+osmium = "*"
 
 
 [requires]

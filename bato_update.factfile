@@ -15,44 +15,11 @@
                 }
             },
             {
-                "name": "filtre OSM sur public_transport",
+                "name": "filtres OSM",
                 "executor": "shell",
-                "command": "osmosis --read-pbf file='france-latest.osm.pbf' --nkv keyValueList='public_transport.platform' --write-pbf platform.osm.pbf 2>&1",
+                "command": "osmosis --read-pbf file='france-latest.osm.pbf' --nkv keyValueList='railway.tram_stop,railway.station,railway.halt,highway.bus_stop,aerialway.station,amenity.ferry_terminal' --write-pbf data.osm.pbf 2>&1",
                 "arguments": [],
                 "dependsOn": [ "téléchargement du fichier OSM France"],
-                "onResult": {
-                    "terminateJobWithSuccess": [ ],
-                    "continueJob": [ 0 ]
-                }
-            },
-            {
-                "name": "filtre OSM sur bus stop",
-                "executor": "shell",
-                "command": "osmosis --read-pbf file='france-latest.osm.pbf' --nkv keyValueList='highway.bus_stop' --write-pbf bus.osm.pbf 2>&1",
-                "arguments": [],
-                "dependsOn": [ "téléchargement du fichier OSM France"],
-                "onResult": {
-                    "terminateJobWithSuccess": [ ],
-                    "continueJob": [ 0 ]
-                }
-            },
-            {
-                "name": "filtre OSM sur tram stop",
-                "executor": "shell",
-                "command": "osmosis --read-pbf file='france-latest.osm.pbf' --nkv keyValueList='railway.tram_stop' --write-pbf tram.osm.pbf 2>&1",
-                "arguments": [],
-                "dependsOn": [ "téléchargement du fichier OSM France"],
-                "onResult": {
-                    "terminateJobWithSuccess": [ ],
-                    "continueJob": [ 0 ]
-                }
-            },
-            {
-                "name": "fusion des filtres OSM",
-                "executor": "shell",
-                "command": "osmosis --read-pbf platform.osm.pbf --read-pbf tram.osm.pbf --read-pbf bus.osm.pbf --merge --merge --write-pbf public_transport_stops.osm.pbf 2>&1",
-                "arguments": [],
-                "dependsOn": [ "filtre OSM sur tram stop", "filtre OSM sur bus stop", "filtre OSM sur public_transport"],
                 "onResult": {
                     "terminateJobWithSuccess": [ ],
                     "continueJob": [ 0 ]
@@ -61,20 +28,9 @@
             {
                 "name": "extraction OSM en csv",
                 "executor": "shell",
-                "command": "osmconvert64 public_transport_stops.osm.pbf --csv='@oname @id @lat @lon name' --csv-headline --csv-separator=',' -o=BATO_OSM_full.csv 2>&1",
-                "arguments": [],
-                "dependsOn": ["fusion des filtres OSM"],
-                "onResult": {
-                    "terminateJobWithSuccess": [ ],
-                    "continueJob": [ 0 ]
-                }
-            },
-            {
-                "name": "clean up OSM CSV",
-                "executor": "shell",
                 "command": "python3 collect_from_OSM.py",
-                "arguments": [ ],
-                "dependsOn": ["extraction OSM en csv"],
+                "arguments": [],
+                "dependsOn": ["filtres OSM"],
                 "onResult": {
                     "terminateJobWithSuccess": [ ],
                     "continueJob": [ 0 ]
@@ -83,9 +39,9 @@
             {
                 "name": "remove OSM temp files",
                 "executor": "shell",
-                "command": "rm *.osm.pbf && rm BATO_OSM_full.csv",
+                "command": "rm *.osm.pbf",
                 "arguments": [ ],
-                "dependsOn": ["clean up OSM CSV"],
+                "dependsOn": ["extraction OSM en csv"],
                 "onResult": {
                     "terminateJobWithSuccess": [ ],
                     "continueJob": [ 0 ]
@@ -118,7 +74,7 @@
                 "executor": "shell",
                 "command": "cat resultats/BATO_OSM.csv > resultats/BATO.csv",
                 "arguments": [ ],
-                "dependsOn": [ "check du nombre d'arrêts extraits des GTFS", "clean up OSM CSV" ],
+                "dependsOn": [ "check du nombre d'arrêts extraits des GTFS", "extraction OSM en csv" ],
                 "onResult": {
                     "terminateJobWithSuccess": [],
                     "continueJob": [ 0 ]
