@@ -1,4 +1,3 @@
 factotum
 .factotum/
 *.dot
-Pipfile.lock

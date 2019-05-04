@@ -7,6 +7,8 @@ Pour les extractions d'OpenStreetMap, les applicatifs suivants sont nécessaires
 * osmosis
 * pyosmium
 
+Pour manipuler les fichiers csv, l'applicatif [xsv](https://github.com/BurntSushi/xsv) est également nécessaire.
+
 ## Processus d'extraction
 Si besoin, mettre à jour la liste des sources GTFS en utilisant la commande :
 `python3 get_Navitiaio_GTFS_List.py`

@@ -70,22 +70,11 @@
                 }
             },
             {
-                "name": "fusion (prise en compte des résultats OSM)",
+                "name": "fusion",
                 "executor": "shell",
-                "command": "cat resultats/BATO_OSM.csv > resultats/BATO.csv",
+                "command": "xsv cat rows resultats/BATO_GTFS.csv resultats/BATO_OSM.csv > resultats/BATO.csv",
                 "arguments": [ ],
                 "dependsOn": [ "check du nombre d'arrêts extraits des GTFS", "extraction OSM en csv" ],
-                "onResult": {
-                    "terminateJobWithSuccess": [],
-                    "continueJob": [ 0 ]
-                }
-            },
-            {
-                "name": "fusion (prise en compte des résultats GTFS)",
-                "executor": "shell",
-                "command": "cat resultats/BATO_GTFS.csv |sed 1d |cut -d , -f 1-5 >> resultats/BATO.csv",
-                "arguments": [ ],
-                "dependsOn": [ "fusion (prise en compte des résultats OSM)" ],
                 "onResult": {
                     "terminateJobWithSuccess": [],
                     "continueJob": [ 0 ]

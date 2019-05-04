@@ -1,0 +1,9 @@
+GTFS_route_type,transport_mode_name
+0,tramway
+1,métro
+2,train
+3,bus
+4,bateau
+5,cable
+6,cable
+7,funiculaire
